@@ -22,6 +22,8 @@ save: saves the catalog to an external file (either as a text or binary, using o
 load: loads the catalog from an external file.
 - The application will signal invalid data (year, path, etc.) using a custom exception.
 
+I have solved everything in compulsory.
+
 ## Optional
 
 - Create a shell that allows reading commands from the keyboard, together with their arguments.
